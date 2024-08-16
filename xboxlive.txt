@@ -15,3 +15,7 @@ assets1.xboxlive.com.nsatc.net
 xvcf1.xboxlive.com
 xvcf2.xboxlive.com
 d1.xboxlive.com
+user.auth.xboxlive.com
+xsts.auth.xboxlive.com
+xsts.auth.xboxlive.com.akadns.net
+user.auth.xboxlive.com.akadns.net
